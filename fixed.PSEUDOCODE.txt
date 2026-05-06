@@ -1,0 +1,14 @@
+START 
+INPUT studentName
+INPUT IF score
+
+
+ INPUT StudentName karrel
+    IF score >=50 
+ OUTPUT " Karrel PASS"
+  ELSE 
+    IF score <=40 THEN 
+ OUTPUT "karre FAIL"
+ENDIF
+ENDIF
+END
